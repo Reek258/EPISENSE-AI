@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-900: #0A2647;
+  --color-primary-800: #143D65;
+  --color-primary-700: #1E5284;
+  
+  --color-teal-600: #2C7873;
+  --color-teal-500: #3A9B94;
+  /* Government of Maharashtra Official Palette */
+  --color-primary-950: #4a1d07; /* Deep Umber */
+  --color-primary-900: #7c2d12; /* Rich Mahogany */
+  --color-primary-800: #9a3412; /* Burnt Orange */
+  --color-primary-700: #c2410c; /* Rust */
+  --color-primary-600: #ea580c; /* Vibrant Saffron (Main) */
+  --color-primary-500: #f97316; /* Warm Orange */
+  --color-primary-400: #fb923c; /* Sunlight */
+  --color-primary-100: #ffedd5; /* Cream */
+  --color-primary-50: #fff7ed;  /* Paper */
+
+  /* Semantic Colors */
+  --color-risk-low: #16a34a;      /* Health Green */
+  --color-risk-moderate: #ca8a04; /* Caution Yellow */
+  --color-risk-high: #ea580c;     /* Alert Orange */
+  --color-risk-critical: #dc2626; /* Danger Red */
+  
+  --color-risk-low-bg: #f0fdf4;
+  --color-risk-moderate-bg: #fefce8;
+  --color-risk-high-bg: #fff7ed;
+  --color-risk-critical-bg: #fef2f2;
+
+  --color-surface-white: #ffffff;
+  --color-surface-50: #fafaf9;
+  --color-surface-100: #f5f5f4;
+  --color-surface-200: #e7e5e4;
+  
+  --color-text-900: #1c1917;
+  --color-text-600: #57534e;
+  --color-text-400: #a8a29e;
+
+  /* Premium Warm Gradients */
+  --grad-saffron: linear-gradient(135deg, #ea580c 0%, #f97316 100%);
+  --grad-sunset: linear-gradient(135deg, #7c2d12 0%, #ea580c 100%);
+  --grad-paper: linear-gradient(to bottom, #ffffff 0%, #fffaf0 100%);
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-heading: 'Merriweather', serif;
+}
+
+@layer base {
+  body {
+    @apply bg-surface-50 text-text-900 font-sans antialiased;
+    background-image: radial-gradient(#e7e5e4 0.5px, transparent 0.5px);
+    background-size: 24px 24px;
+  }
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
