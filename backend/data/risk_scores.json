@@ -1,0 +1,187 @@
+[
+    {
+        "id": "pred-0e387513-9e7c-49b8-b57c-72a3bd509761-0",
+        "zone_id": "0e387513-9e7c-49b8-b57c-72a3bd509761",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.1,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.2,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-10f53282-8b74-4b8f-9404-0c90bc5461d4-1",
+        "zone_id": "10f53282-8b74-4b8f-9404-0c90bc5461d4",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-1dfecb93-9a2c-48f8-8acc-8afbb823eaa5-2",
+        "zone_id": "1dfecb93-9a2c-48f8-8acc-8afbb823eaa5",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.0,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.1,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-24700dac-a1b0-4385-b428-e9a58174a6f9-3",
+        "zone_id": "24700dac-a1b0-4385-b428-e9a58174a6f9",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-27276a72-1116-497a-81dd-d957b8256d75-4",
+        "zone_id": "27276a72-1116-497a-81dd-d957b8256d75",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.3,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.5,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-6ada9144-3e6b-4155-8c8d-9774e1967513-5",
+        "zone_id": "6ada9144-3e6b-4155-8c8d-9774e1967513",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-7ee06d6c-4145-4210-899d-efb146785823-6",
+        "zone_id": "7ee06d6c-4145-4210-899d-efb146785823",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-86ff995c-f04e-4125-a63d-43876c8da0e4-7",
+        "zone_id": "86ff995c-f04e-4125-a63d-43876c8da0e4",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-9bb8b488-5828-4fa9-8644-4e8494c151c3-8",
+        "zone_id": "9bb8b488-5828-4fa9-8644-4e8494c151c3",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.0,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.1,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-aad38b1d-946d-4928-b905-8f5c31b3afc4-9",
+        "zone_id": "aad38b1d-946d-4928-b905-8f5c31b3afc4",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 2.9,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.1,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-b147c008-025f-4ad7-a392-7a580ee8fc19-10",
+        "zone_id": "b147c008-025f-4ad7-a392-7a580ee8fc19",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-d10965e7-5b7f-47bc-bfd2-46599226e989-11",
+        "zone_id": "d10965e7-5b7f-47bc-bfd2-46599226e989",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 85.0,
+        "risk_level": "CRITICAL",
+        "ml_prediction": {
+            "forecast_7d": 89.2,
+            "insight": "Outbreak detected based on major case spike!"
+        }
+    },
+    {
+        "id": "pred-d867ca9c-93f0-410e-95d5-8717a6741797-12",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 67.7,
+        "risk_level": "MODERATE",
+        "ml_prediction": {
+            "forecast_7d": 71.1,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-dcaa01e3-7a74-46cb-a62c-0b14a0c98a92-13",
+        "zone_id": "dcaa01e3-7a74-46cb-a62c-0b14a0c98a92",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.2,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "pred-f7b398b0-4687-4065-bf4d-6c8df7bcadac-14",
+        "zone_id": "f7b398b0-4687-4065-bf4d-6c8df7bcadac",
+        "date": "2026-05-11T18:01:03Z",
+        "composite_score": 3.3,
+        "risk_level": "LOW",
+        "ml_prediction": {
+            "forecast_7d": 3.4,
+            "insight": "Stable conditions."
+        }
+    },
+    {
+        "id": "699fde27-a8a7-40aa-888e-9c56175db424",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-12T08:19:12.925978+00:00",
+        "composite_score": 98.5,
+        "risk_level": "CRITICAL",
+        "ml_prediction": {
+            "forecast_7d": 99.2
+        }
+    },
+    {
+        "id": "c324faf1-2939-4db1-b256-6d58e4c3adb6",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-13T17:12:36.438760+00:00",
+        "composite_score": 98.5,
+        "risk_level": "CRITICAL",
+        "ml_prediction": {
+            "forecast_7d": 99.2
+        }
+    }
+]

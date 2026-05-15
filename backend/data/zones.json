@@ -1,0 +1,153 @@
+[
+    {
+        "id": "d10965e7-5b7f-47bc-bfd2-46599226e989",
+        "name": "Yerawada - Kalas - Dhanori",
+        "latitude": 18.5616,
+        "longitude": 73.8967,
+        "radius_km": 3.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 1
+    },
+    {
+        "id": "f7b398b0-4687-4065-bf4d-6c8df7bcadac",
+        "name": "Dhole Patil Road",
+        "latitude": 18.5372,
+        "longitude": 73.8814,
+        "radius_km": 2.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 2
+    },
+    {
+        "id": "9bb8b488-5828-4fa9-8644-4e8494c151c3",
+        "name": "Nagar Road - Vadgaonsheri",
+        "latitude": 18.5559,
+        "longitude": 73.9167,
+        "radius_km": 2.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 3
+    },
+    {
+        "id": "6ada9144-3e6b-4155-8c8d-9774e1967513",
+        "name": "Shivajinagar - Ghole Road",
+        "latitude": 18.5314,
+        "longitude": 73.8446,
+        "radius_km": 2.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 4
+    },
+    {
+        "id": "1dfecb93-9a2c-48f8-8acc-8afbb823eaa5",
+        "name": "Aundh - Baner",
+        "latitude": 18.5576,
+        "longitude": 73.8037,
+        "radius_km": 3.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 5
+    },
+    {
+        "id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "name": "Kothrud - Bawdhan",
+        "latitude": 18.5074,
+        "longitude": 73.8025,
+        "radius_km": 3.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 1,
+        "risk_level": "CRITICAL"
+    },
+    {
+        "id": "b147c008-025f-4ad7-a392-7a580ee8fc19",
+        "name": "Warje - Karvenagar",
+        "latitude": 18.4866,
+        "longitude": 73.8115,
+        "radius_km": 2.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 2
+    },
+    {
+        "id": "aad38b1d-946d-4928-b905-8f5c31b3afc4",
+        "name": "Sinhgad Road",
+        "latitude": 18.4687,
+        "longitude": 73.8242,
+        "radius_km": 3.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 3
+    },
+    {
+        "id": "86ff995c-f04e-4125-a63d-43876c8da0e4",
+        "name": "Dhankawadi - Sahakar Nagar",
+        "latitude": 18.4649,
+        "longitude": 73.8553,
+        "radius_km": 2.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 4
+    },
+    {
+        "id": "7ee06d6c-4145-4210-899d-efb146785823",
+        "name": "Kondhwa - Yewalewadi",
+        "latitude": 18.4601,
+        "longitude": 73.8924,
+        "radius_km": 3.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 5
+    },
+    {
+        "id": "27276a72-1116-497a-81dd-d957b8256d75",
+        "name": "Hadapsar - Mundhwa",
+        "latitude": 18.5089,
+        "longitude": 73.9259,
+        "radius_km": 4.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 1
+    },
+    {
+        "id": "10f53282-8b74-4b8f-9404-0c90bc5461d4",
+        "name": "Wanawadi - Ramtekdi",
+        "latitude": 18.4907,
+        "longitude": 73.8986,
+        "radius_km": 2.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 2
+    },
+    {
+        "id": "24700dac-a1b0-4385-b428-e9a58174a6f9",
+        "name": "Bibwewadi",
+        "latitude": 18.4727,
+        "longitude": 73.8647,
+        "radius_km": 2.0,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 3
+    },
+    {
+        "id": "0e387513-9e7c-49b8-b57c-72a3bd509761",
+        "name": "Bhavani Peth",
+        "latitude": 18.505,
+        "longitude": 73.8687,
+        "radius_km": 1.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 4
+    },
+    {
+        "id": "dcaa01e3-7a74-46cb-a62c-0b14a0c98a92",
+        "name": "Kasba - Vishrambaugwada",
+        "latitude": 18.519,
+        "longitude": 73.855,
+        "radius_km": 1.5,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "hospitals": 5
+    }
+]

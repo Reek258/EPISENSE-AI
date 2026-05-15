@@ -1,0 +1,82 @@
+[
+    {
+        "id": "b0a50eae-77ee-4367-8743-7cdfecc7601d",
+        "zone_id": "d10965e7-5b7f-47bc-bfd2-46599226e989",
+        "latitude": 18.560537101416198,
+        "longitude": 73.90467899264523,
+        "severity": "High",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "aed7f734-0475-4ef2-b94e-614c894b04f3",
+        "zone_id": "6ada9144-3e6b-4155-8c8d-9774e1967513",
+        "latitude": 18.540601174301106,
+        "longitude": 73.84134298175451,
+        "severity": "Low",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "9719ca83-fa2a-49d6-aa03-7dbba311a36e",
+        "zone_id": "1dfecb93-9a2c-48f8-8acc-8afbb823eaa5",
+        "latitude": 18.559272997104845,
+        "longitude": 73.80681504676542,
+        "severity": "Low",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "6bd0d403-670a-4d0a-bbc3-eca16647e910",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "latitude": 18.50287622789957,
+        "longitude": 73.79314528465402,
+        "severity": "Medium",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "8ca9e56d-0ce7-4b4a-bd40-424acdc53f79",
+        "zone_id": "b147c008-025f-4ad7-a392-7a580ee8fc19",
+        "latitude": 18.484466892048832,
+        "longitude": 73.816960902109,
+        "severity": "Low",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "19a7afdc-669f-411d-92a1-0ecc5214b269",
+        "zone_id": "86ff995c-f04e-4125-a63d-43876c8da0e4",
+        "latitude": 18.47098862212739,
+        "longitude": 73.85664456377378,
+        "severity": "Medium",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "d6c80d15-dd58-4324-a48a-ae9b6adf1f97",
+        "zone_id": "27276a72-1116-497a-81dd-d957b8256d75",
+        "latitude": 18.499443301950688,
+        "longitude": 73.92316295214914,
+        "severity": "Low",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    },
+    {
+        "id": "87bdf9ce-85e3-4faa-8438-88feff8ca393",
+        "zone_id": "10f53282-8b74-4b8f-9404-0c90bc5461d4",
+        "latitude": 18.491835128760684,
+        "longitude": 73.8991290147747,
+        "severity": "Medium",
+        "status": "pending",
+        "reported_at": "2026-04-02T08:15:11.959729+00:00",
+        "reporter_name": "Citizen"
+    }
+]

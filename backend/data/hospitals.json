@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hosp_01",
+    "name": "Sassoon General Hospital",
+    "zone_id": "d10965e7-5b7f-47bc-bfd2-46599226e989",
+    "latitude": 18.5284,
+    "longitude": 73.8739,
+    "resources": {
+      "total_beds": 500,
+      "available_beds": 42,
+      "dengue_kits": 1200,
+      "malaria_kits": 800,
+      "vaccine_doses": 2500
+    },
+    "contact": "020-26128000"
+  },
+  {
+    "id": "hosp_02",
+    "name": "Sahyadri Super Speciality Hospital",
+    "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+    "latitude": 18.5028,
+    "longitude": 73.7931,
+    "resources": {
+      "total_beds": 200,
+      "available_beds": 15,
+      "dengue_kits": 450,
+      "malaria_kits": 300,
+      "vaccine_doses": 1200
+    },
+    "contact": "020-67215000"
+  },
+  {
+    "id": "hosp_03",
+    "name": "KEM Hospital Pune",
+    "zone_id": "f7b398b0-4687-4065-bf4d-6c8df7bcadac",
+    "latitude": 18.5246,
+    "longitude": 73.8679,
+    "resources": {
+      "total_beds": 350,
+      "available_beds": 88,
+      "dengue_kits": 900,
+      "malaria_kits": 600,
+      "vaccine_doses": 1800
+    },
+    "contact": "020-26217300"
+  },
+  {
+    "id": "hosp_04",
+    "name": "Noble Hospital",
+    "zone_id": "31ef97d8-1180-4560-a292-628f328f5221",
+    "latitude": 18.5025,
+    "longitude": 73.9272,
+    "resources": {
+      "total_beds": 250,
+      "available_beds": 5,
+      "dengue_kits": 300,
+      "malaria_kits": 200,
+      "vaccine_doses": 1000
+    },
+    "contact": "020-66285000"
+  }
+]

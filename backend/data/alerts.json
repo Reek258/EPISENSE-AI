@@ -1,0 +1,47 @@
+[
+    {
+        "id": "d76495ac-5655-430a-a398-69431fcd569a",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-10T15:50:05.450225+00:00",
+        "title": "Outbreak Alert: Kothrud-Bawdhan",
+        "description": "Abnormal increase in cases detected in Kothrud-Bawdhan. Immediate intervention required.",
+        "severity": "CRITICAL",
+        "is_active": true
+    },
+    {
+        "id": "4a32686d-189f-4af1-82fc-14b9505c7f7f",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-10T15:50:08.194565+00:00",
+        "title": "Outbreak Alert: Kothrud-Bawdhan",
+        "description": "Abnormal increase in cases detected in Kothrud-Bawdhan. Immediate intervention required.",
+        "severity": "CRITICAL",
+        "is_active": true
+    },
+    {
+        "id": "4ad8a7e3-0b94-42ec-b5fb-9a4000de0dd6",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-11T16:59:15.086438+00:00",
+        "title": "Outbreak Alert: Kothrud-Bawdhan",
+        "description": "Abnormal increase in cases detected in Kothrud-Bawdhan. Immediate intervention required.",
+        "severity": "CRITICAL",
+        "is_active": true
+    },
+    {
+        "id": "14eaf212-1e3e-4f8a-be10-2415681aaead",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-12T08:19:12.925978+00:00",
+        "title": "Outbreak Alert: Kothrud-Bawdhan",
+        "description": "Abnormal increase in cases detected in Kothrud-Bawdhan. Immediate intervention required.",
+        "severity": "CRITICAL",
+        "is_active": true
+    },
+    {
+        "id": "b475679d-20fd-4084-99b3-9982a0985ad1",
+        "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797",
+        "date": "2026-05-13T17:12:36.438760+00:00",
+        "title": "Outbreak Alert: Kothrud-Bawdhan",
+        "description": "Abnormal increase in cases detected in Kothrud-Bawdhan. Immediate intervention required.",
+        "severity": "CRITICAL",
+        "is_active": true
+    }
+]

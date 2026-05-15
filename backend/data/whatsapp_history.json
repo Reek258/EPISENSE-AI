@@ -1,0 +1,482 @@
+[
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:33.632500"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:33.632581"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:33.632590"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.230790"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.230854"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.230873"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.722589"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.722651"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.722672"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.873442"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.873511"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:35.873530"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:45.646760"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:45.647045"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:45.647072"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:47.777194"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:47.777258"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:38:47.777276"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:25.369882"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:25.370133"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:25.370178"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:30.103240"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:30.103308"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:40:30.103328"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:06.988052"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:06.988158"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:06.988176"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:10.755763"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:10.755956"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:48:10.755987"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:34.080312"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:34.080371"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:34.080382"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:35.409319"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:35.409384"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:50:35.409404"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:54:54.666295"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:54:54.666466"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:54:54.666493"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:01.849390"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:01.849458"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:01.849478"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:03.121782"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:03.121830"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T01:55:03.121843"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:10.544429"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:10.544474"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:10.544478"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:18.173733"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:18.173777"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:02:18.173784"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:03:44.152757"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:03:44.152952"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SIMULATED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:03:44.152982"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "FAILED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:08:24.569912"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "FAILED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:08:24.846886"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "FAILED",
+    "sid": "MOCK_SID",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:08:25.124985"
+  },
+  {
+    "citizen_name": "Nitesh Patil",
+    "phone": "+91 9637080703",
+    "status": "SENT",
+    "sid": "SM55946e848e1fb06422e6871f031ac894",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:12:34.407934"
+  },
+  {
+    "citizen_name": "Priya Patil",
+    "phone": "+91 91234 56789",
+    "status": "SENT",
+    "sid": "SM2c5db15ef8d16f4737f9805488bd1d47",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:12:34.755275"
+  },
+  {
+    "citizen_name": "Ananya Rao",
+    "phone": "+91 95555 44444",
+    "status": "SENT",
+    "sid": "SMc8c8fa0e5084e7e2635d633629ae37cd",
+    "message": "\ud83d\udea8 RED ZONE ALERT: Vector disease risk in your ward *Kothrud (TEST)*!\n\u2705 Use repellent\n\u2705 Remove stagnant water\n\u2705 Wear full sleeves\n\u2705 See doctor if fever\nStay Safe! -EPISENCE AI",
+    "timestamp": "2026-05-15T02:12:35.118655"
+  }
+]

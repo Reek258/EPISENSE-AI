@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cit_001",
+    "name": "Nitesh Patil",
+    "phone": "+918010877424",
+    "zone_id": "d867ca9c-93f0-410e-95d5-8717a6741797"
+  },
+  {
+    "id": "cit_002",
+    "name": "Priya Patil",
+    "phone": "+918010877424",
+    "zone_id": "d10965e7-5b7f-47bc-bfd2-46599226e989"
+  },
+  {
+    "id": "cit_003",
+    "name": "Rahul Deshmukh",
+    "phone": "+918010877424",
+    "zone_id": "f7b398b0-4687-4065-bf4d-6c8df7bcadac"
+  },
+  {
+    "id": "cit_004",
+    "name": "Sneha Kulkarni",
+    "phone": "+918010877424",
+    "zone_id": "31ef97d8-1180-4560-a292-628f328f5221"
+  },
+  {
+    "id": "cit_005",
+    "name": "Amit Joshi",
+    "phone": "+918010877424",
+    "zone_id": "b147c008-025f-4ad7-a392-7a580ee8fc19"
+  }
+]
